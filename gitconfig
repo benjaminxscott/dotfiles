@@ -1,3 +1,7 @@
+[user]
+  name = "Ben"
+  email = "bschmoker@users.noreply.github.com"
+
 [init]
   templatedir = ~/.git_template
 [push]
