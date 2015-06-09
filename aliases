@@ -5,6 +5,9 @@ alias mkdir="mkdir -p"
 alias e="$EDITOR"
 alias v="$VISUAL"
 
+#represent
+alias dc='echo -e "***\n==="'
+
 # Bundler
 alias b="bundle"
 
